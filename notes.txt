@@ -2,7 +2,7 @@
 
 
 login : ssh student13@hpcecosystems.ace.chpc.ac.za
-get node: qsub -I -q serial -P CHPC
+get node: qsub -I -q serial -P WCHPC
 
 linux execut: ./filename
 
